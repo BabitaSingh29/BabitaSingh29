@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Babita Singh</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/3052691/screenshots/6626994/data_science.gif"
+<img align="right"alt="coding"width="400"src="![image](https://github.com/BabitaSingh29/BabitaSingh29/assets/121238977/c9c7088a-2917-416d-a244-6a740127d8e3)
+"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babitasingh29&label=Profile%20views&color=0e75b6&style=flat" alt="babitasingh29" /> </p>
 
